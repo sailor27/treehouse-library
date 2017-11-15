@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #C6C8C8;
+  height: 100%;
+  width: auto;
+}
+
+li {
+  list-style: none;
+  display: inline;
+}
+
+.box-header p{
+
+}
+.box1 {
+  background: #FFF;
+  width: 510px;
+  height: 310px;
+  border: 1px, #000, solid;
+}
+
+.left{
+  float: left;
+}
+
+.right {
+  float:right;
+}
+
+.cf {
+  clear:both;
+}
+
+.box1-header {
+  background: #D1BCE3;
+  width: 510px;
+  height: 60px;
+}
+
+.box1-header img {
+  float: left;
+}
